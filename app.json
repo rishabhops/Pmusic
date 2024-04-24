@@ -34,12 +34,12 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "6367495275",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from  on Telegram.",
-        "value": "",
+        "value": "BQF-hwMAdzQfXhx9CSatqkyr5P6H6A4cNDWFlGMW854w4gqIKoavnRyTDEHK74A8gUBe8fe9JpKm2a-nSKt3Ftw8iO_udY0Nix4PVFl82zf3CR7K3X0cOb5zaishrm32SNc77YVtVeYdC2DrtPpcev81dUVdQUGCx8TbWBr0k9nf68eI4O3DRmRtv55L8WrH29WLr00GDR5sohLZxrFRdyvUs3jySqUwJOLCJIG7l7d1qRWn7SB9846OBH88Z9Qm5GdBhzhPvGb1_dE20Hj3ZgmAk52mh8pUH-V9oAQiHWNT-SKqC8VL3MFKCaCYLdgNIAH2KPsNQ98qRS89NIS8cMMVIscsOwAAAAGoffsoAA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001907436368",
         "required": true
       }
     },
