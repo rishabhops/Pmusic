@@ -27,7 +27,7 @@ MISHI = [
 
 #--------------------------
 
-MUST_JOIN = "the_friendz"
+MUST_JOIN = "Dream99_VIP_Hub"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
@@ -47,8 +47,8 @@ async def must_join_channel(app: Client, msg: Message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/Roy_editx"),
-                                InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url=link),
+                                InlineKeyboardButton("join", url="https://t.me/Official_InstaPLUS"),
+                                InlineKeyboardButton("join", url=link),
                             ]
                         ]
                     )
