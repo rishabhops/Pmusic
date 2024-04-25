@@ -44,7 +44,7 @@ HEROKU_API_KEY = "HRKU-943f8dae-f1f3-429c-870d-1abd500e77fc" #getenv("HEROKU_API
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/LOCO-PILOT/ROYMUSIC",
+    "https://github.com/rishabhops/Pmusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
